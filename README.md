@@ -14,6 +14,8 @@ Aplikasi web jam digital sederhana yang menampilkan waktu saat ini secara real-t
 
 ## 🗂️ Struktur Proyek
 ```
+├── ico
+├── ├── pict.1
 ├── index.html    
 ├── style.css     
 └── script.js     
@@ -22,12 +24,12 @@ Aplikasi web jam digital sederhana yang menampilkan waktu saat ini secara real-t
 ## 🚀 Instalasi & Penggunaan
 1. **Clone repositori:**
    ```bash
-   git clone 
+   git clone https://github.com/clarck77/JamDigitalSederhana.git
    ```
 
 2. **Masuk ke folder proyek:**
    ```bash
-   cd 
+   cd JamDigitalSederhana
    ```
 
 3. **Buka file `index.html` di browser:**
