@@ -1,6 +1,6 @@
 # ⏰ Projek Jam Digital Sederhana
 
-Aplikasi web jam digital sederhana yang menampilkan waktu saat ini secara real-time. Dibuat dengan memisahkan file HTML, CSS, dan JavaScript.
+Aplikasi web jam digital sederhana yang menampilkan waktu saat ini, secara real-time. Dibuat dengan memisahkan file HTML, CSS, dan JavaScript.
 
 ## ✨ Fitur
 - 🕒 Menampilkan jam, menit, dan detik secara real-time.
