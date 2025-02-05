@@ -12,15 +12,6 @@ Aplikasi web jam digital sederhana yang menampilkan waktu saat ini, secara real-
 - 🎨 CSS3
 - 📜 JavaScript (ES6)
 
-## 🗂️ Struktur Proyek
-```
-├── ico
-├── ├── pict.1
-├── index.html    
-├── style.css     
-└── script.js     
-```
-
 ## 🚀 Instalasi & Penggunaan
 1. **Clone repositori:**
    ```bash
@@ -40,6 +31,15 @@ Aplikasi web jam digital sederhana yang menampilkan waktu saat ini, secara real-
 4. **Buka file `index.html` di browser:**
    - 📂 Klik dua kali pada `index.html`, atau
    - 🌐 Gunakan ekstensi live server di editor seperti VS Code.
+
+## 🗂️ Struktur Proyek
+```
+├── ico
+├── ├── pict.1
+├── index.html    
+├── style.css     
+└── script.js     
+```
 
 ## 📄 Lisensi
 Proyek ini tidak dilisensikan.
