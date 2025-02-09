@@ -38,7 +38,8 @@ Aplikasi web jam digital sederhana yang menampilkan waktu saat ini, secara real-
 ├── ├── pict.1
 ├── index.html    
 ├── style.css     
-└── script.js     
+├── script.js
+└── README.md     
 ```
 
 ## 📄 Lisensi
