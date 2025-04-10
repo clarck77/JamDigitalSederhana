@@ -10,7 +10,7 @@ Aplikasi web jam digital sederhana yang menampilkan waktu saat ini, secara real-
 ## 🛠️ Teknologi yang Digunakan
 - HTML5
 - CSS3
-- JavaScript (ES6)
+- JavaScript 
 
 ## 🚀 Instalasi & Penggunaan
 1. **Clone repositori:**
